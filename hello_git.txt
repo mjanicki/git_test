@@ -1,0 +1,1 @@
+This is some text in the Git Hello text file.
